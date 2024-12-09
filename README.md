@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**R-C137/R-C137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Shaun**, a **self-taught Unity programmer** with **7+ years of experience**. I love tackling on challenges, creating complex solutions, and bringing ideas to life.
 
-Here are some ideas to get you started:
+I specialize in **freelance Unity development**, mostly on **back-end systems**, but I can work effective with UI and front-end systems. I’m always looking for exciting new projects to collaborate on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- [C's Utils](https://github.com/R-C137/CsUtils): A Unity library providing QOL additions to developers.
+- [Dead-Match](https://www.instagram.com/deeadmatch/): A strategic card-based game where players attempt to take over objectives using the undead.
+- My own website: Coming Soon
+
+[//]: # (The Dealer's Voice: A visual novel like card game)
+
+### 🤝 Let’s Collaborate
+- Have a Unity project in mind? Let’s build it together!
+- Open to partnering on single-player 3D projects but also open to 2D and multiplayer projects.
+
+
+### 🧑‍🤝‍🧑 Current Collaborators
+
+- [0-0-8 Studios](https://0-0-8studios.com/) on [Dead-Match](https://www.instagram.com/deeadmatch/)
+
+[//]: # (- Serendipitous April: The Dealer's Voice)
+
+### ⚡ Fun Fact
+- A big fan of Jetbrains tools. [Rider](https://www.jetbrains.com/rider/) is my current IDE for Unity development — a game-changer.
+
+---
+
+## 🛠️ Skills
+
+### Languages
+- **C#** *(Proficient)*
+- **C++** *(Intermediate)*
+- Lua
+- HTML/CSS
+
+### Tools & Frameworks
+- Unity3D
+- Git
+- Unreal Engine
+
+---
+
+## 📬 Reach Out
+
+- **Email**: maurermason.shaun@icloud.com
+- **Discord** (Preferred): rc137
+
+I'm always looking forward to meeting like-minded individuals. Let's connect!
