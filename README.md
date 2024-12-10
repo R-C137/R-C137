@@ -2,7 +2,7 @@
 
 I'm **Shaun**, a **self-taught Unity programmer** with **7+ years of experience**. I love tackling on challenges, creating complex solutions, and bringing ideas to life.
 
-I specialize in **freelance Unity development**, mostly on **back-end systems**, but I can work effective with UI and front-end systems. I’m always looking for exciting new projects to collaborate on.
+I specialize in **freelance Unity development**, mostly on **back-end systems**, but I can work effective with UI and front-end systems. I’m always looking for new and exciting projects to collaborate on.
 
 ### 🔭 Currently Working On
 - [C's Utils](https://github.com/R-C137/CsUtils): A Unity library providing QOL additions to developers.
