@@ -22,7 +22,6 @@ I specialize in **freelance Unity development**, mostly on **back-end systems**,
 ### ⚡ Fun Fact
 - A big fan of Jetbrains tools. [Rider](https://www.jetbrains.com/rider/) is my current IDE for Unity development — a game-changer.
 
----
 
 ## 🛠️ Skills
 
@@ -37,7 +36,6 @@ I specialize in **freelance Unity development**, mostly on **back-end systems**,
 - Git & GitHub
 - Unreal Engine
 
----
 
 ## 📬 Reach Out
 
