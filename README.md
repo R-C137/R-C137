@@ -23,12 +23,6 @@ I specialize in **freelance Unity development**, mostly on **back-end systems**,
 ### ⚡ Fun Fact
 - A big fan of Jetbrains tools. [Rider](https://www.jetbrains.com/rider/) is my current IDE for Unity development — a game-changer.
 
-## 📬 Reach Out
-
-![C's Discord Status](https://dcbadge.limes.pink/api/shield/380421367704584193)
-
-**Email**: maurermason.shaun@icloud.com
-
 <div align="center">
 
 ## 🛠️ Tech Stack
@@ -56,4 +50,9 @@ I specialize in **freelance Unity development**, mostly on **back-end systems**,
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom1.svg">
 
 
+## 📬 Reach Out
+
+![C's Discord Status](https://dcbadge.limes.pink/api/shield/380421367704584193)
+
+**Email**: maurermason.shaun@icloud.com
 </div>
