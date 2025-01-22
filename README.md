@@ -29,7 +29,7 @@ I specialize in **freelance Unity development**, mostly on **back-end systems**,
 
 **Email**: maurermason.shaun@icloud.com
 
-<div style="text-align: center;">
+<div align="center">
 
 ## 🛠️ Tech Stack
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
