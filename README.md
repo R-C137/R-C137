@@ -43,6 +43,7 @@ I specialize in **freelance Unity development**, mostly on **back-end systems**,
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg">
 
 
+
 ### Interests
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg">
@@ -55,4 +56,6 @@ I specialize in **freelance Unity development**, mostly on **back-end systems**,
 ![C's Discord Status](https://dcbadge.limes.pink/api/shield/380421367704584193)
 
 **Email**: maurermason.shaun@icloud.com
+
+# "I Am Not Your Son. I Am The Ghost."
 </div>
