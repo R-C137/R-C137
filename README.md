@@ -6,7 +6,7 @@ I'm **Shaun**, a **self-taught Unity programmer** with **7+ years of experience*
 I specialize in **freelance Unity development**, mostly on **back-end systems**, but I can work effective with UI and front-end systems. I’m always looking for new and exciting projects to collaborate on.
 
 ### 🔭 Currently Working On
-- [C's Utils](https://github.com/R-C137/CsUtils): A Unity library providing QOL additions to developers
+- C's Utils: A Unity library providing QOL additions to developers
 - [Dead-Match](https://www.instagram.com/deeadmatch/): A strategic card-based game where players attempt to take over objectives using the undead
 - The Dealer's Voice: A visual novel like card game
 - My own website: Coming Soon...
