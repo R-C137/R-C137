@@ -55,7 +55,7 @@ I specialize in **freelance Unity development**, mostly on **back-end systems**,
 
 ![C's Discord Status](https://dcbadge.limes.pink/api/shield/380421367704584193)
 
-**Email**: maurermason.shaun@icloud.com
+**Email**: shaun@clogic.dev
 
 # "I Am Not Your Son. I Am The Ghost."
 </div>
