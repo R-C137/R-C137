@@ -1,27 +1,20 @@
 
-## Hi there 👋
+## Founder & Systems Architect at CLogic
+<img src="CLogic_Logo_2.svg" width="250" alt="CLogic · Code Meets Logic">
 
-I'm **Shaun**, a **self-taught Unity programmer** with **7+ years of experience**. I love tackling on challenges, creating complex solutions, and bringing ideas to life.
+I’ve been building in Unity since 2017, mainly on systems, tooling and designing architecture that doesn’t collapse six months later.
+I prefer working close to foundations to ensure that projects can scale
 
-I specialize in **freelance Unity development**, mostly on **back-end systems**, but I can work effective with UI and front-end systems. I’m always looking for new and exciting projects to collaborate on.
+My work is about shared systems, workflow discipline, and bringing structure to projects that need stability.
 
 ### 🔭 Currently Working On
-- C's Utils: A Unity library providing QOL additions to developers
-- [Dead-Match](https://www.instagram.com/deeadmatch/): A strategic card-based game where players attempt to take over objectives using the undead
-- The Dealer's Voice: A visual novel like card game
-- My own website: Coming Soon...
+- Maintaining CLogic’s core Unity libraries and internal tools
+- Integrating core systems into active projects and reviewing architecture
 
-### 🤝 Let’s Collaborate
-- Have a Unity project in mind? Let’s build it together!
-- Open to partnering on single-player 3D projects but also open to 2D and multiplayer projects
-- I'm always looking forward to meeting like-minded individuals. Let's connect!
-
-### 🧑‍🤝‍🧑 Current Collaborators (Non-Exhaustive)
-- [0-0-8 Studios](https://0-0-8studios.com/) on [Dead-Match](https://www.instagram.com/deeadmatch/)
-- **Serendipitous April** on **The Dealer's Voice**
-
-### ⚡ Fun Fact
-- A big fan of Jetbrains tools. [Rider](https://www.jetbrains.com/rider/) is my current IDE for Unity development — a game-changer.
+### 🧱 Scope of Work
+- Design and maintain reusable Unity systems used across multiple projects
+- Review architecture and refine workflows to prevent long-term maintenance issues
+- Catch architectural issues early and correct workflows.
 
 <div align="center">
 
@@ -29,8 +22,6 @@ I specialize in **freelance Unity development**, mostly on **back-end systems**,
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
-
 
 ### Tools & Frameworks
 
@@ -42,20 +33,17 @@ I specialize in **freelance Unity development**, mostly on **back-end systems**,
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg">
 
-
-
 ### Interests
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg">
 <br>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom1.svg">
 
-
 ## 📬 Reach Out
 
-![C's Discord Status](https://dcbadge.limes.pink/api/shield/380421367704584193)
+![Discord Status](https://dcbadge.limes.pink/api/shield/380421367704584193)
 
 **Email**: shaun@clogic.dev
 
-# "I Am Not Your Son. I Am The Ghost."
+# "He who thinks he can, and he who thinks he cannot are both correct"
 </div>
