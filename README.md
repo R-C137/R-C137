@@ -7,7 +7,20 @@ I prefer working close to foundations to ensure that projects can scale
 
 My work is about shared systems, workflow discipline, and bringing structure to projects that need stability.
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-C137)
+<picture>
+  <source 
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-C137&theme=github_dark" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-C137&theme=default" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-C137&theme=default" 
+    alt="GitHub Profile Summary"
+  />
+</picture>
 
 ### 🔭 Currently Working On
 - Maintaining CLogic’s core Unity libraries and internal tools
@@ -19,6 +32,7 @@ My work is about shared systems, workflow discipline, and bringing structure to 
 - Catch architectural issues early and correct workflows.
 
 <div align="center">
+
 
 ## 🛠️ Tech Stack
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">
