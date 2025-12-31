@@ -61,7 +61,7 @@ My work is about shared systems, workflow discipline, and bringing structure to 
 
 **Email**: shaun@clogic.dev
 
-[![committers.top badge](https://user-badge.committers.top/mauritius_private/R-C137.svg)](https://user-badge.committers.top/mauritius_private/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/mauritius_private/R-C137.svg)](https://user-badge.committers.top/mauritius_private/R-C137)
 
 # "He who thinks he can, and he who thinks he cannot are both correct"
 </div>
