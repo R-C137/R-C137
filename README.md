@@ -7,6 +7,8 @@ I prefer working close to foundations to ensure that projects can scale
 
 My work is about shared systems, workflow discipline, and bringing structure to projects that need stability.
 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-C137)
+
 ### 🔭 Currently Working On
 - Maintaining CLogic’s core Unity libraries and internal tools
 - Integrating core systems into active projects and reviewing architecture
@@ -44,6 +46,8 @@ My work is about shared systems, workflow discipline, and bringing structure to 
 ![Discord Status](https://dcbadge.limes.pink/api/shield/380421367704584193)
 
 **Email**: shaun@clogic.dev
+
+[![committers.top badge](https://user-badge.committers.top/mauritius_private/R-C137.svg)](https://user-badge.committers.top/mauritius_private/USERNAME)
 
 # "He who thinks he can, and he who thinks he cannot are both correct"
 </div>
