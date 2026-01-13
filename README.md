@@ -1,6 +1,21 @@
 
 ## Founder & Systems Architect at CLogic
-<img src="CLogic_Logo_2.svg" width="250" alt="CLogic · Code Meets Logic">
+
+<picture>
+  <source 
+    srcset="CLogic Logo 1 - dark.svg" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="CLogic Logo 1 - light.svg" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    src="CLogic Logo 1 - dark.svg" 
+    alt="CLogic · Code Meets Logic"
+    width="240"
+  />
+</picture>
 
 I’ve been building in Unity since 2017, mainly on systems, tooling and designing architecture that doesn’t collapse six months later.
 I prefer working close to foundations to ensure that projects can scale
