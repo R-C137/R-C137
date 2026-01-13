@@ -3,15 +3,15 @@
 
 <picture>
   <source 
-    srcset="CLogic Logo 1 - dark.svg" 
+    srcset="CLogic-logo-dark.svg" 
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="CLogic Logo 1 - light.svg" 
+    srcset="CLogic-logo-light.svg" 
     media="(prefers-color-scheme: light)"
   />
   <img 
-    src="CLogic Logo 1 - dark.svg" 
+    src="CLogic-logo-dark.svg" 
     alt="CLogic · Code Meets Logic"
     width="240"
   />
